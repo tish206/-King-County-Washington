@@ -1,0 +1,11 @@
+{
+  "criteriaId": 1024419,
+  "name": "King County",
+  "canonicalName": "King County,Washington,United States",
+  "parentCriteriaId": 509,
+  "countryCode": "US",
+  "targetType": "County"
+}
+
+
+Add county framework for King County
