@@ -1,0 +1,52 @@
+[
+  {
+    "postalCode": "98118",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98118,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "subject": "real_estate",
+    "searchQueryBehavior": "find_agent",
+    "routingDestination": "https://925751stavesthseattlewa98118.wordpress.com",
+    "marketTier": "9257 51st Ave S Focus"
+  },
+  {
+    "postalCode": "98125",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98125,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "subject": "real_estate",
+    "searchQueryBehavior": "find_agent",
+    "routingDestination": "https://seattlerealestate98125.wordpress.com",
+    "marketTier": "Urban Residential"
+  },
+  {
+    "postalCode": "98126",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98126,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "subject": "real_estate",
+    "searchQueryBehavior": "find_agent",
+    "routingDestination": "https://seattlerealestate98126.wordpress.com",
+    "marketTier": "Urban Residential"
+  },
+  {
+    "postalCode": "98133",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98133,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "subject": "real_estate",
+    "searchQueryBehavior": "find_agent",
+    "routingDestination": "https://seattlerealestate98133.wordpress.com",
+    "marketTier": "Suburban Transition"
+  },
+  {
+    "postalCode": "98134",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98134,Seattle,WA,United States",
+    "parentCountyCriteriaId": 1024419,
+    "subject": "real_estate",
+    "searchQueryBehavior": "find_agent",
+    "routingDestination": "https://seattlerealestate98134.wordpress.com",
+    "marketTier": "Commercial / High-Density"
+  }
+]
